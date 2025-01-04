@@ -1,0 +1,15 @@
+C:\Users\cgcro\source\repos\LeetCodeRepo\LeetCodeRepo\bin\Debug\net8.0\LeetCodeRepo.exe
+C:\Users\cgcro\source\repos\LeetCodeRepo\LeetCodeRepo\bin\Debug\net8.0\LeetCodeRepo.deps.json
+C:\Users\cgcro\source\repos\LeetCodeRepo\LeetCodeRepo\bin\Debug\net8.0\LeetCodeRepo.runtimeconfig.json
+C:\Users\cgcro\source\repos\LeetCodeRepo\LeetCodeRepo\bin\Debug\net8.0\LeetCodeRepo.dll
+C:\Users\cgcro\source\repos\LeetCodeRepo\LeetCodeRepo\bin\Debug\net8.0\LeetCodeRepo.pdb
+C:\Users\cgcro\source\repos\LeetCodeRepo\LeetCodeRepo\obj\Debug\net8.0\LeetCodeRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgcro\source\repos\LeetCodeRepo\LeetCodeRepo\obj\Debug\net8.0\LeetCodeRepo.AssemblyInfoInputs.cache
+C:\Users\cgcro\source\repos\LeetCodeRepo\LeetCodeRepo\obj\Debug\net8.0\LeetCodeRepo.AssemblyInfo.cs
+C:\Users\cgcro\source\repos\LeetCodeRepo\LeetCodeRepo\obj\Debug\net8.0\LeetCodeRepo.csproj.CoreCompileInputs.cache
+C:\Users\cgcro\source\repos\LeetCodeRepo\LeetCodeRepo\obj\Debug\net8.0\LeetCodeRepo.dll
+C:\Users\cgcro\source\repos\LeetCodeRepo\LeetCodeRepo\obj\Debug\net8.0\refint\LeetCodeRepo.dll
+C:\Users\cgcro\source\repos\LeetCodeRepo\LeetCodeRepo\obj\Debug\net8.0\LeetCodeRepo.pdb
+C:\Users\cgcro\source\repos\LeetCodeRepo\LeetCodeRepo\obj\Debug\net8.0\LeetCodeRepo.genruntimeconfig.cache
+C:\Users\cgcro\source\repos\LeetCodeRepo\LeetCodeRepo\obj\Debug\net8.0\ref\LeetCodeRepo.dll
+C:\Users\cgcro\source\repos\LeetCodeRepo\LeetCodeRepo\obj\Debug\net8.0\LeetCodeRepo.sourcelink.json
