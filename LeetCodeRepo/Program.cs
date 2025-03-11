@@ -16,4 +16,20 @@
         Console.WriteLine(i + ": " + nums[i]);
     }
 }
-RunRemoveElementSolution([3, 2, 2, 3], 3);
+//RunRemoveElementSolution([3, 2, 2, 3], 3);
+
+static void RunMergeSortedArraySolution()
+{
+    int[] nums1 = [1, 2, 3, 0, 0, 0];
+    int m = 3;
+
+    int[] nums2 = [2, 5, 6];
+    int n = 3;
+
+    int[] result = Merge.Solution(nums1, m, nums2, n);
+    for (int i = 0; i < result.Length; i++)
+    {
+        Console.WriteLine($"result[{i}]: " + result[i]);
+    }
+}
+RunMergeSortedArraySolution();
