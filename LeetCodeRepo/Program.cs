@@ -32,4 +32,16 @@ static void RunMergeSortedArraySolution()
         Console.WriteLine($"result[{i}]: " + result[i]);
     }
 }
-RunMergeSortedArraySolution();
+//RunMergeSortedArraySolution();
+
+static void RunRemoveDuplicates()
+{
+    int[] nums = { 1, 1, 2 };
+    int result = RemoveDuplicates.Solution(nums);
+    Console.WriteLine("k: " + result);
+    foreach (int i in nums)
+    {
+        Console.WriteLine(i);
+    }
+}
+RunRemoveDuplicates();

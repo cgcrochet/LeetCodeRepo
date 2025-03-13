@@ -11,7 +11,6 @@ namespace LeetCodeRepo
                 nums1[i] = nums2[i - m];
             }
             Array.Sort(nums1);
-
             return nums1;
         }
     }
